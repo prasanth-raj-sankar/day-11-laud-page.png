@@ -1,0 +1,49 @@
+.container1{
+    width: 100%;
+    background-color: rgb(41, 39, 39);
+    height: 500px;
+}
+
+.header{
+    margin-left: 10px;
+    size: 3px;
+}
+
+
+span{
+    color: rgb(161, 156, 156);
+    padding: 0px 5px;
+    font-size: 12px;
+}
+
+.text1{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.quote{
+    padding-top: 9px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    padding: 12px;
+}
+
+.card-title, .card-subtitle{
+    font-size: 15px;
+}
+.card-text{
+    font-size: 10px;
+}
